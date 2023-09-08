@@ -1,2 +1,2 @@
 1) Add Favicon Icon
-2) Set the video to autoplay
+2) Play the video on the website and set the video to autoplay
